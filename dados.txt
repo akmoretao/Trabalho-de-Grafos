@@ -1,0 +1,22 @@
+from,to,weight
+Alan,Pop,1
+Alan,Rock,1
+Bruna,Sertanejo,1
+Bruna,Pop,1
+Renan,Metal,1
+Renan,Rock,1
+João M,Rap,1
+João M,Pop,1
+Letícia,Eletrônica,1
+Letícia,Funk,1
+Letícia,Pop,1
+Marcelo,Rock,1
+Marcelo,Metal,1
+Rafael,Sertanejo,1
+Rafael,Pop,1
+Rafael,Rock,1
+Bianca,Rap,1
+Ana C,Metal,1
+Ana C,Eletrônica,1
+Ana C,Rock,1
+Isabela,Bossa Nova,1
